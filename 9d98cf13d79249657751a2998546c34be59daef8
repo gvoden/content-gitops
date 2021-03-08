@@ -1,0 +1,1 @@
+{"jobID":"ca845da7-b422-f54f-488d-2408fd546efc","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"gvodensample:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
